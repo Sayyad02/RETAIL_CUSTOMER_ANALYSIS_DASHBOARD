@@ -119,5 +119,3 @@ The Streamlit application is divided into the following main sections:
 6. **A/B Test Simulation:** Conceptual testing of promotional impact on a chosen segment.  
 7. **Monitoring Trends:** Example visualization of segment performance over time.  
 8. **Download Summary Report:** Option to download a text report summarizing the analysis.
-
-\*(Optional: Add a License section
